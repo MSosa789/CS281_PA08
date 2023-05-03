@@ -1,0 +1,4 @@
+﻿  inventory_app.cpp
+C:\Users\mauri\source\repos\PA08-TwoWheeler-inventory\source\TwoWheeler.h(46): warning C4172: returning address of local variable or temporary
+C:\Users\mauri\source\repos\PA08-TwoWheeler-inventory\source\TwoWheeler.h(49): warning C4172: returning address of local variable or temporary
+  PA08-TwoWheel-inventory.vcxproj -> C:\Users\mauri\source\repos\PA08-TwoWheeler-inventory\x64\Debug\PA08-TwoWheel-inventory.exe
